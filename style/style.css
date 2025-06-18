@@ -1,5 +1,6 @@
 * {
     font-family: 'Times New Roman', Arial, sans-serif;
+    margin-left: 20px;
 }
 
 
@@ -8,23 +9,24 @@ a {
     color: black;
 }
 
-.header {
+/* .header {
     padding: 15px;
     padding-left: 40px;
-}
+} */
 
 .header h1 {
     font-size: 2.5rem;
 }
 
+.navbar {
+    margin-left: 0;
+}
 .navbar img,a {
     display: inline-block;
     margin-right: 40px;
-}
-
-.navbar a {
     font-size: 1.3rem;
 }
+
 
 .break-line {
     height: 10px;
@@ -32,11 +34,13 @@ a {
 }
 
 .recipes h2{
-    padding-left: 40px;
+    /* padding-left: 40px; */
     font-size: 2rem;
 }
 
 .list {
+    margin: 0 auto;
+    padding: 0;
     list-style: none;
     font-size: 1.5rem;
 }

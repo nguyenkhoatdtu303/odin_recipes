@@ -1,0 +1,36 @@
+* {
+    font-family: 'Times New Roman', Arial, sans-serif;
+    margin-left: 15px;
+    font-size: 1.2rem;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h3 {
+    font-size: 2rem;
+    margin-bottom: 5px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin: 15px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.break-line {
+    height: 10px;
+    background-color: rgb(253, 253, 103);
+    margin: 15px;
+}
+
+.thin-break {
+    height: 3px;
+    background-color: black;
+}
+
