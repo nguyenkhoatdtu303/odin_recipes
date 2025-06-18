@@ -2,8 +2,18 @@
     font-family: 'Times New Roman', Arial, sans-serif;
 }
 
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
 .header {
-    background-color: rgb(255, 255, 130);
+    padding: 15px;
+}
+
+.header h1 {
+    font-size: 2.5rem;
 }
 
 .navbar img,a {
@@ -11,11 +21,21 @@
     margin-right: 40px;
 }
 
-a {
-    text-decoration: none;
-    color: black;
+.navbar a {
+    font-size: 1.3rem;
+}
+
+.break-line {
+    height: 10px;
+    background-color: rgb(253, 253, 103);
+}
+
+.recipes h2{
+    padding-left: 40px;
+    font-size: 2rem;
 }
 
 .list {
     list-style: none;
+    font-size: 1.5rem;
 }
