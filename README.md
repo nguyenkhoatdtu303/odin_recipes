@@ -1,8 +1,5 @@
-# odin_recipes
-My project is to use HTML to build a recipes websites.
-
-I am gonna use some tags that I have learnt to structure the home page and recipe web pages.
-
-Imma try to add more image types in my projects.
-
-I will use a technique to link those web pages so that we can move among those.
+# The Odin Project's Project
+In this project, I have built a simple recipes website. This website has a home page and many recipes pages they are linked together. This project focus on structuring a webpage and add some simple style using CSS.
+# Skills Used
+HTML: boiler plate, link, list, img...
+CSS: font-size, color, width, height,..
